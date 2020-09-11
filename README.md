@@ -2,4 +2,4 @@
 
 Hello my name is Juyeon
 
-<img width="" height="" src="./png/week_2.png"></img>
+<img width="" height="" src="./Png/week_2.png"></img>
