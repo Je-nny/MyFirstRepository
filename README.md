@@ -22,3 +22,8 @@ Hello my name is Juyeon
 - 콜라보, 시즌별 컬렉션들을 볼 수 있는 ‘LOOK BOOK’ 페이지 제공
 - 사용자들과의 소통을 위한 공지사항, 이벤트 등을 제공하는 게시판 제공
 - 오프라인 매장 이용을 원하는 소비자들을 위한 위치 제공 서비스
+
+# 7주차 과제
+
+<img width="" height="" src="./Png/week_7_1.png"></img>
+<img width="" height="" src="./Png/week_7_2.png"></img>
