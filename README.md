@@ -46,3 +46,8 @@ Hello my name is Juyeon
 <img width="" height="" src="./Png/week_11_1.png"></img>
 <img width="" height="" src="./Png/week_11_2.png"></img>
 <img width="" height="" src="./Png/week_11_3.png"></img>
+
+# 12주차 과제
+
+<img width="" height="" src="./Png/week_12_1.png"></img>
+<img width="" height="" src="./Png/week_12_2.png"></img>
